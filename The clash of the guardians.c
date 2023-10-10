@@ -23,6 +23,10 @@ struct History{
 	
 };
 
+void showCard(){
+	
+	
+}
 
 int main(){
 	

@@ -1,0 +1,4 @@
+1. descargar o copiar el contenido de "Cards.txt" en un repositorio.
+2. guardar "The clash of the guardians.c" dentro del mismo repositorio que
+   "Cards.txt" para el debido funcionamiento del código.
+3. compilar "The clash of the guardians.c".
